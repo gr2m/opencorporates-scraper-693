@@ -1,6 +1,6 @@
 # opencorporates-scraper-693
 
-> This is a scraper & transformer for OpenCorporates Mission 693
+> This is a scraper & transformer for [OpenCorporates Mission 693](https://missions.opencorporates.com/missions/693)
 
 ## Requirements
 
