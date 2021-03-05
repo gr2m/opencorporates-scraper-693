@@ -6,10 +6,7 @@
   "scripts": {
     "start": "node ./index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:gr2m/opencorporates-scraper-693.git"
-  },
+  "repository": "github:gr2m/opencorporates-scraper-693",
   "keywords": [
     "opencorporates",
     "scraper",
@@ -17,10 +14,5 @@
   ],
   "author": "Gregor Martynus <gregor@martynus.net>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/gr2m/opencorporates-scraper-693/issues"
-  },
-  "homepage": "https://github.com/gr2m/opencorporates-scraper-693",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
